@@ -1,4 +1,4 @@
 # _config.yml
 title: My Portfolio
 description: A portfolio site built with Jekyll
-theme: jekyll-theme-cayman  # Use the theme assigned to you
+theme: jekyll-theme-slate  # Use the theme assigned to you
