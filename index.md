@@ -13,7 +13,7 @@ I specialize in web development, data science, and DevOps practices.
 
 ## Contact
 
-Email: <!--email_off-->your-email@example.com<!--/email_off-->
+Email: 22f3002460@ds.study.iitm.ac.in
 
 ## Projects
 
